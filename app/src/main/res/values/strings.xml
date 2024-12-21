@@ -1,0 +1,311 @@
+<resources>
+    <string name="app_name">Women Peace Power</string>
+    <string name="language">english</string>
+    <string name="defautllanguage">english</string>
+    <string name="stopen">navigation opens</string>
+    <string name="news_title">Video provides a powerful way to help you prove your point. When you click Online Video</string>
+    <string name="stclose">navigation closes</string>
+    <string name="news_content"> Video provides a powerful way to help you prove your point. When you click Online Video, you can paste in the embed code for the video you want to add.
+        You can also type a keyword to search online for the video that best fits your document. Video provides a powerful way to help you prove your point. When you click Online Video, you can paste in the embed code for the video you want to add. You can also type a keyword to search online for the video that best fits your document.</string>
+
+    <string name="lgContentNews">Video provides a powerful way to help you prove your point. When you click Online Video, you can paste in the embed code for the video you want to add. You can also type a keyword to search online for the video that best fits your document.
+To make your document look professionally produced, Word provides header, footer, cover page, and text box designs that complement each other. For example, you can add a matching cover page, header, and sidebar. Click Insert and then choose the elements you want from the different galleries.
+Themes and styles also help keep your document coordinated. When you click Design and choose a new Theme, the pictures, charts, and SmartArt graphics change to match your new theme. When you apply styles, your headings change to match the new theme.
+Save time in Word with new Reading view. You can collapse parts of the document and focus on the text you want. If you need to stop reading before you reach the end, Word remembers where you left off - even on another device.
+Video provides a e document and focus on the text you want. If you need to stop reading before you reach the end, Word remembers where you left off - even on another device.
+
+</string>
+    <string name="poem">Tick tock...tick tock...
+Life is counting down on your internal clock.
+
+Memories that feel as if they occurred yesterday
+turn to flashes of moments that seem to fade away.
+
+People you once knew
+walk by without a clue.
+
+The times you once shared
+exist as if you were never there.
+
+Years fly...friends die...
+and you never know when you\'ll say your last goodbye.
+
+Oh, how I wish I could turn back time,
+spend it with loved ones and cherish what once was mine.
+
+Or to go back even more,
+being a kid in a candy store.
+
+How I miss the way I used to feel
+on Christmas day when Santa was real.
+
+But back to reality...back to today,
+family is scarce and memories continue to fade away.
+
+Tick tock...tick tock...
+How I wish I could control this clock.
+
+</string>
+
+    <string name="p_news_content">ولسمشر محمد اشرف غني یکشنبه د کابینې غونډې ته وویل، غواړي په را روانو شپږو میاشتو کې د جګړې لوری په بنسټیز ډول بدل کړي.
+
+ولسمشر غني د کابینې ناسته کې وویل، افغانستان په تېرو دریو لسیزو کې له بې ساري یرغل سره مخ دی او طالبان د سولې او ودانۍ هېڅ اراده نه لري.
+
+د ولسي جرګې د اداري پلاوي غړی کریم اتل هم وايي، ټاکلې ده ولسمشر پارلمان ته د امنیت او سولې په برخه کې د وروستیو پرمختګونو په اړه معلومات ورکړي او له پارلمان څخه هم ځینې غوښتنې ولري.</string>
+
+    <string name="d_news_content">عنایت‌الله بابر فرهمند، معاون شورای عالی مصالحه و از اعضای برجسته حزب جنبش اسلامی در صفحه فیسبوکش نوشته است که آقای دوستم بعد از تداوی از ترکیه به افغانستان آمده است.
+
+در ماه‌های اخیر و با افزایش حملات گروه طالبان به شمال افغانستان، مارشال دوستم به جوزجان، زادگاهش رفت تا در برابر حملات گروه طالبان رهبری نیروهای مردمی را به دست گیرد.
+
+تصاویر آقای دوستم با پسرش در جبهه جوزجان در شبکه‌های اجتماعی منتشر شد. در حالیکه هنوز هم جنگ در جوزجان جریان داشت، آقای دوستم به ترکیه رفت.</string>
+    <string name="d_heading">مارشال عبدالرشید دوستم، رهبر حزب جنش اسلامی افغانستان بعد از چندین ماه مداوا به افغانستان برگشت.</string>
+
+    <string name="heading1">Afghanistan: Biden says another Kabul airport attack likely</string>
+    <string name="heading2">پینټاګون وايي، لا هم د داعش خطر جدي دی؛ لږ تر لږه ۱۱۷ زره کسان له کابله ایستل شوي</string>
+    <string name="heading3">اظهارات سخنگوی وزارت خارجه آمریکا در مورد فرق طالبان و شبکه حقانی خبرساز شد</string>
+
+    <string name="news1">Another attack on Kabul airport is highly likely, US President Joe Biden has warned, saying that military commanders have told him it could come as early as Sunday.
+
+The US is continuing evacuations but the final British flight carrying only Afghan civilians left on Saturday.
+
+About 170 people died after a suicide bomber targeted the airport on Thursday as crowds of Afghans were trying to get on evacuation flights.
+
+The IS-K group has claimed the attack.
+
+In retaliation, the US carried out a drone strike on eastern Afghanistan late on Friday, killing two "high-profile" members of IS-K - the Islamic State (IS) group in Khorasan Province.
+
+The two are described as a planner and a facilitator. It is unclear whether they were directly involved in planning the Kabul airport attack.</string>
+    <string name="news2">د امریکا دفاع وزارت ویاند جان کربي په یوه خبري غونډه کې وویل، کابل کې لا هم د داعش خطر جدي دی. په ورته مهال امریکايي پوځي چارواکي وايي، ۱۱۷ زره کسان د کابل له حامد کرزي هوايي ډګره ایستل شوي دي او تر وروستیي ټاکل شوي وخته به دا لړۍ روانه وي.
+
+ښاغلي کربي په یوه لنډ مهاله خبري غونډه کې وویل، امریکا ان د یوې دقیقې لپاره هم تصور نه کوي چې څه کابل کې پېښ شول د دې هېواد پر هوډ به اغېز وکړي.
+
+نوموړي زیاته کړه د پنجشنبې ورځې ډرون برید د داعش ډلې یوه مهم کس له منځه وړلو لپاره وه، چې دغې ډلې ته یې د بریدونو لپاره اسانتیا چمتو کوله.
+
+امریکايي ځواکونو د کابل حامد کرزي هوايي ډګره بهر د داعش ډلې له خونړي برید دوې ورځې وروسته پر پنجشنبه وویل، د داعش خراسان ډلې د بریدونو یو طراح یا پلان جوړوونکی یې د افغانستان په ختیځ کې وژلی دی.
+
+د امریکايي پوځ ډرون الوتکې په ننګرهار ولایت کې دا برید کړی. د پنټاګون په وینا هغه کس چې ډرون برید پرې شوی، وژل شوی دی او ملکي کسانو ته د تلفاتو اوښتو رپوټ نه دی ورکړل شوی.</string>
+    <string name="news3">اظهارات سخنگوی وزارت خارجه آمریکا در مورد اینکه طالبان و شبکه حقانی دو نهاد "جداگانه" هستند، خبرساز شده، در حالی که سراج‌الدین، فرمانده شبکه حقانی، یکی از دو معاون هبت‌الله آخند‌زاده، رهبر طالبان، است.
+
+شب گذشته ند پرایس، سخنگوی وزارت خارجه آمریکا در پاسخ به سوالی که آیا اطلاعات شهروندان آمریکایی‌ در اختیار طالبان و شبکه حقانی نیز قرار گرفته، گفت: "نه، نشده، طالبان و شبکه حقانی دو نهاد جداگانه هستند."
+
+این سخنان آقای پرایس با انتقاد برخی در شبکه‌های اجتماعی روبرو شده است.
+
+پنتاگون پیشتر گفته بود اطلاعات مربوط به شهروندان آمریکایی که قرار است از افغانستان تخلیه شوند، در مسیر فرودگاه کابل با طالبان نیز شریک شده است.
+
+شبکه حقانی متهم است که بارها حملات مرگباری علیه دولت افغانستان و نیروهای آمریکایی درافغانستان انجام داده است. این شبکه با آنکه جزئی از ساختار تشکیلات رسمی طالبان معرفی شده اما همواره مستقل و خودمختار عمل کرده است. بنا به گزارش‌ها، شبکه حقانی ارتباط نزدیک با شبکه القاعده دارد.</string>
+
+    <string name="heading4">د ملاریا په اړه نوې څېړنه: ښايي تر ۷۰ سلنې ناروغي او له امله یې مړینه کمه شي</string>
+    <string name="news4">له ملاریا وژونکي ناروغۍ د افریقايي ماشومانو د ژغورنې لپاره د یوې نوې څېړنې پایلې ښيي چې ښايي د دې ناروغۍ او له امله د مړینې کچه تر ۷۰ سلنې کمه شي.
+
+په لندن کې څېړونکي وايي چې د ملاریا تر ټولو ناوړه موسم وړاندې واکسین او درملو ډېرې د پام وړپایلې لرلي دي.
+
+په څېړنه کې په بورکینافاسو او مالي کې له ۱۷ کلونو د کم عمر ۶۰۰۰ ماشومانو درملنه شوې ده.
+
+په کال کې د ملاریا له امله د مړینې ۴۰۰ زره پېښو کې اکثره یې له پنځو کلونو کم عمره ماشومان دي. او د افریقا د لویې صحرا په سویل کې په ډېرو سیمو کې دا ناروغي لا هم تر ټولو لویه روغتیايي مسله ده.
+
+د دې څېړنې پایلې د انګلستان طبي ژورنال NEW ENGLAND JOURNAL OF MEDICAL خپرې کړي. د څېړنې پرمهال ماشومانو ته د ملاریا هغه واکسین ورکړل شوی چې اوس کارول کیږي خو تر څنګ د ملاریا ضد درمل هم ورکړل شوي. دا تجربه د ملاریا په تر ټولو سخت موسم کې شوې ده چې غالبا باراني موسم دی.</string>
+
+    <string name="heading5">Afghanistan s economy may be only weeks from collapse, according to a former UN official</string>
+    <string name="news5">A former UN official who previously worked on Taliban-related sanctions said the economy in Afghanistan may be weeks away from collapse, NBC News reported.
+
+Hans-Jakob Schindler, a German former diplomat, told NBC that there may be weeks or a couple of months before economic failure. He said: Then the economy is in deep trouble."
+
+NGOs and international aid groups have called for quick action to avert an economic crisis in the country as the Taliban worked to replace key staff at some of the country's financial institutions.
+
+It was reported last week that the Taliban was unable to get its hands on $10 billion in central bank reserves, because most of the funds were held in New York.</string>
+
+    <string name="p_home">کور</string>
+    <string name="d_home">خانه</string>
+    <string name="e_home">Home</string>
+
+    <string name="p_about">په ا‌ړه</string>
+    <string name="d_about">در باره</string>
+    <string name="e_about">About</string>
+
+    <string name="p_entertainment">ساتېری</string>
+    <string name="d_entertainment">سرگرمی</string>
+    <string name="e_entertainment">Entertainment</string>
+
+    <string name="p_news">خبرونه</string>
+    <string name="d_news">اخبار</string>
+    <string name="e_news">News</string>
+
+    <string name="p_culture">کلتور</string>
+    <string name="d_culture">فرهنگ</string>
+    <string name="e_culture">Culture</string>
+
+    <string name="p_blogs">ویبلاګونه</string>
+    <string name="d_blogs">وبلاگ ها</string>
+    <string name="e_blogs">Blogs</string>
+
+    <string name="p_ideas">نظرونه</string>
+    <string name="d_ideas">نظریات</string>
+    <string name="e_ideas">Ideas</string>
+
+    <string name="p_story">کیسه</string>
+    <string name="d_story">داستان</string>
+    <string name="e_story">Story</string>
+
+    <string name="p_poetry">شاعري</string>
+    <string name="d_poetry">شعر</string>
+    <string name="e_poetry">Poetry</string>
+
+    <string name="p_signup">نوم لیکنه</string>
+    <string name="d_signup">ثبت نام</string>
+    <string name="e_signup">Sign Up</string>
+
+    <string name="p_signin">دننه کېدل</string>
+    <string name="d_signin">وارد شدن</string>
+    <string name="e_signin">Sign In</string>
+
+    <string name="p_survey">سروې یا نظرپوښتنه</string>
+    <string name="d_survey">نظر سنجی</string>
+    <string name="e_survey">Survey</string>
+
+    <string name="p_welcome">ښه راغلاست</string>
+    <string name="d_welcome">خوش آمدید</string>
+    <string name="e_welcome">Welcome</string>
+
+    <string name="p_post">لیکنه/پوست(لیږل)</string>
+    <string name="d_post">ارسال</string>
+    <string name="e_post">Post</string>
+
+    <string name="p_description">دا ګرځنده کاریال د افغانستان لپاره ملګرو ملتونو د ښځو د څانګې له خوا حمایه کېږي</string>
+    <string name="d_description">این اپلیکشن از طرف نهاد زنان سازمان ملل برای افغانستان حمایت میگردد.</string>
+    <string name="e_description">This Mobile App is supported by UN Women Afghanistan</string>
+
+    <string name="p_continue">د دوام لپاره باید سیستم نه ننوزئ</string>
+    <string name="d_continue">برای ادامه باید به سیستم وارد شوید</string>
+    <string name="e_continue">Sign In to Continue</string>
+
+    <string name="p_hello">سلام</string>
+    <string name="d_hello">سلام</string>
+    <string name="e_hello">Hello</string>
+
+    <string name="p_RaiseYourVoice">د خپل حق غوښتلو لپاره غږ اوچت کړئ</string>
+    <string name="d_RaiseYourVoice">برای به دست آوردن حقوق خود صدای خود را بلند کنید</string>
+    <string name="e_RaiseYourVoice">Raise your Voice to get your rights</string>
+
+    <string name="p_username">د کارن نوم</string>
+    <string name="d_username">نام کاربر</string>
+    <string name="e_username">Username</string>
+
+    <string name="p_password">پټ نوم</string>
+    <string name="d_password">رمز عبور</string>
+    <string name="e_password">Password</string>
+
+    <string name="p_rememberMe">ما په یاد لره</string>
+    <string name="d_rememberMe">مرا به خاطر داشته باش</string>
+    <string name="e_rememberMe">Remember me</string>
+
+    <string name="p_forgetPass">پټ نوم مو هېر شوی؟</string>
+    <string name="d_forgetPass">رمز عبور را فراموش کرده اید؟</string>
+    <string name="e_forgetPass">Forgot Password</string>
+
+    <string name="p_login">د ننه کېدل</string>
+    <string name="d_login">وارد شدن</string>
+    <string name="e_login">Login</string>
+
+    <string name="p_createNewAccount">نوی حساب پرانیزئ</string>
+    <string name="d_createNewAccount">ایجاد یک حساب جدی</string>
+    <string name="e_createNewAccount">Create a new account</string>
+
+    <string name="p_search">لټون</string>
+    <string name="d_search">جستجو کردن</string>
+    <string name="e_search">Search</string>
+
+    <string name="p_writeYourIdeas">خپل نظرونه دلته ولیکئ</string>
+    <string name="d_writeYourIdeas">نظریات خود را اینجا بنویسید</string>
+    <string name="e_writeYourIdeas">Write your ideas here</string>
+
+    <string name="p_recentPostedIdeas">تازه خپاره شوي نظریات</string>
+    <string name="d_recentPostedIdeas">آخرین نظریات ارسال شده</string>
+    <string name="e_recentPostedIdeas">Recent Posted Ideas</string>
+
+    <string name="p_resultsOfRecentSurveys">د وروستۍ سروې پایلې</string>
+    <string name="d_resultsOfRecentSurveys">نتیجه آخرین نظرسنجی ها</string>
+    <string name="e_resultsOfRecentSurveys">Results of Recent Surveys</string>
+
+    <string name="p_surveyTitle">د سروې عنوان</string>
+    <string name="d_surveyTitle">عنوان نظرسنجی</string>
+    <string name="e_surveyTitle">Survey Title</string>
+
+    <string name="p_status">حالت</string>
+    <string name="d_status">وضعیت</string>
+    <string name="e_status">Status</string>
+
+    <string name="p_numberOfReplies">د ځوابونو شمېر</string>
+    <string name="d_numberOfReplies">تعداد جواب ها</string>
+    <string name="e_numberOfReplies">Number of Replies</string>
+
+    <string name="p_answer">ځواب</string>
+    <string name="d_answer">جواب</string>
+    <string name="e_answer">Answer</string>
+
+    <string name="p_view">ښودل</string>
+    <string name="d_view">نمایش</string>
+    <string name="e_view">View</string>
+
+    <string name="p_idea">نظر</string>
+    <string name="d_idea">نظر</string>
+    <string name="e_idea">Idea</string>
+
+    <string name="p_websiteDescription">دا ویبپاڼه د ملګرو ملتونو د ښځو د څانګې له خوا حمایه کېږي</string>
+    <string name="d_websiteDescription">این وبسایت از طرف نهاد زنان سازمان ملل برای افغانستان حمایت میگردد</string>
+    <string name="e_websiteDescription">This Website is supported by UN Women Afghanistan</string>
+
+    <string name="p_headlines">سرټکي</string>
+    <string name="d_headlines">سرخط</string>
+    <string name="e_headlines">Headlines</string>
+
+    <string name="p_name">نوم</string>
+    <string name="d_name">نام</string>
+    <string name="e_name">Name</string>
+
+    <string name="p_surname">لقب</string>
+    <string name="d_surname">تخلص</string>
+    <string name="e_surname">Surname</string>
+
+    <string name="p_password2">پسورډ/پټ نوم</string>
+    <string name="d_password2">رمز( گذرواژه)</string>
+    <string name="e_password2">Password</string>
+
+    <string name="p_passConfirmation">پټ نوم تائید کړئ</string>
+    <string name="d_passConfirmation">تایید رمز</string>
+    <string name="e_passConfirmation">Confirm Password</string>
+
+    <string name="p_authorOfPoem">د شعر لیکوال</string>
+    <string name="d_authorOfPoem">شاعر</string>
+    <string name="e_authorOfPoem">Author of Poem</string>
+
+    <string name="p_email">برېښنالیک</string>
+    <string name="d_email">ایمیل</string>
+    <string name="e_email">Email</string>
+
+    <string name="p_gender">جنسیت</string>
+    <string name="d_gender">جنسیت</string>
+    <string name="e_gender">Gender</string>
+
+    <string name="p_dateOfBirth">د زېږېدو نېټه</string>
+    <string name="d_dateOfBirth">تاریخ تولد</string>
+    <string name="e_dateOfBirth">Date of Birth</string>
+
+    <string name="p_province">ولایت</string>
+    <string name="d_province">ولایت</string>
+    <string name="e_province">Province</string>
+
+    <string name="p_view2">ښودل</string>
+    <string name="d_view2">نمایش</string>
+    <string name="e_view2">View</string>
+
+    <string name="p_logout">خارجیدل</string>
+    <string name="d_logout">خروج</string>
+    <string name="e_logout">Logout</string>
+
+    <string name="p_gellary">ګالری</string>
+    <string name="d_gellary">ګالری</string>
+    <string name="e_gellary">Gellary</string>
+
+    <string name="baseUrl">https://192.168.137.11:44376/</string>
+
+</resources>

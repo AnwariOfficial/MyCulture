@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:background="@color/dark_blue"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolBar"
+        android:layout_alignParentTop="true"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/white"
+        android:backgroundTint="@color/dark_blue"
+        app:navigationIcon="@color/pink"></androidx.appcompat.widget.Toolbar>
+
+    <androidx.cardview.widget.CardView
+        android:layout_below="@id/toolBar"
+        android:backgroundTint="@color/dark_blue"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/recentIdeaPostCardView"
+        app:cardElevation="8dp"
+        app:cardCornerRadius="16dp">
+        <LinearLayout
+            android:layout_margin="10dp"
+            android:background="@drawable/idea_border"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+                <TextView
+                    android:textDirection="rtl"
+                    android:layout_marginTop="8dp"
+                    android:layout_marginRight="8dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Najibullah Anwari"
+                    android:textStyle="bold"
+                    android:textSize="16sp"
+                    android:textColor="@color/text_color"
+                    android:id="@+id/username"/>
+            <TextView
+                android:textDirection="rtl"
+                android:layout_marginTop="4dp"
+                android:layout_marginRight="40dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="12/Jul/2021"
+                android:textStyle="bold"
+                android:textSize="10sp"
+                android:textColor="@color/text_color"
+                android:id="@+id/date"/>
+            <View
+                android:layout_width="match_parent"
+                android:layout_marginLeft="8dp"
+                android:layout_marginRight="8dp"
+                android:layout_height="1dp"
+                android:layout_marginTop="4dp"
+                android:background="@drawable/divider"
+                android:layout_marginBottom="10dp"/>
+            <ScrollView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical">
+                    <TextView
+                        android:textDirection="rtl"
+                        android:padding="8dp"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:textColor="@color/text_color"
+                        android:textStyle="normal"
+                        android:text="@string/lgContentNews"
+                        style="@style/TextAppearance.AppCompat.Body2"
+                        android:id="@+id/content_poetry"/>
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/content_author"
+                        android:textStyle="bold"
+                        android:textSize="18sp"
+                        android:text="Najibullah Anwari"
+                        android:padding="8dp"
+                        android:textAlignment="center"
+                        android:textColor="@color/text_color"/>
+
+                </LinearLayout>
+
+            </ScrollView>
+
+
+
+
+
+</LinearLayout>
+
+    </androidx.cardview.widget.CardView>
+
+</RelativeLayout>

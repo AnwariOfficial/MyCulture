@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <androidx.cardview.widget.CardView
+        android:layout_margin="8dp"
+        android:backgroundTint="@color/dark_blue"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/recentIdeaPostCardView"
+        app:cardElevation="8dp"
+        app:cardCornerRadius="16dp">
+        <LinearLayout
+            android:layout_marginTop="8dp"
+            android:background="@drawable/idea_border"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+                <de.hdodenhof.circleimageview.CircleImageView
+                   android:id="@+id/profilePhoto"
+                    android:layout_width="24dp"
+                    android:src="@drawable/profile"
+                    android:layout_height="24dp"
+                    app:civ_border_color="@color/yellow"
+                    app:civ_border_width="1dp"
+                    android:layout_marginTop="8dp"
+                    android:layout_marginLeft="8dp"
+                    />
+                <TextView
+                    android:layout_marginTop="8dp"
+                    android:layout_marginLeft="8dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Najibullah Anwari"
+                    android:textStyle="bold"
+                    android:textSize="16sp"
+                    android:textColor="@color/text_color"
+                    android:id="@+id/recentIdeaUsername"/>
+
+
+            </LinearLayout>
+            <TextView
+                android:layout_marginTop="4dp"
+                android:layout_marginLeft="40dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="12/Jul/2021"
+                android:textStyle="bold"
+                android:textSize="10sp"
+                android:textColor="@color/text_color"
+                android:id="@+id/recentIdeaDate"/>
+            <View
+                android:layout_width="match_parent"
+                android:layout_marginLeft="8dp"
+                android:layout_marginRight="8dp"
+                android:layout_height="1dp"
+                android:layout_marginTop="4dp"
+                android:background="@drawable/divider"
+                android:layout_marginBottom="10dp"/>
+            <ScrollView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textColor="@color/text_color"
+                    android:textStyle="normal"
+                    android:padding="8dp"
+                    android:text="@string/lgContentNews"
+                    style="@style/TextAppearance.AppCompat.Body2"
+                    android:id="@+id/recentIdeaPostContainer"/>
+
+            </ScrollView>
+
+
+
+        </LinearLayout>
+
+
+
+    </androidx.cardview.widget.CardView>
+
+</RelativeLayout>

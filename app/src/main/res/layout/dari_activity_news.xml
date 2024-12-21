@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/dark_blue"
+    tools:context=".NewsActivity">
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolBar"
+        android:layout_alignParentTop="true"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/white"
+        android:backgroundTint="@color/dark_blue"
+        app:navigationIcon="@color/pink"></androidx.appcompat.widget.Toolbar>
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:layout_gravity="left"
+        android:id="@+id/imageView"
+        android:layout_width="32dp"
+        android:layout_height="32dp"
+        android:layout_alignParentLeft="true"
+        android:layout_marginTop="8dp"
+        android:layout_marginLeft="32dp"
+        android:layout_below="@id/toolBar"
+        android:src="@drawable/photo_placeholder" />
+
+    <View
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_below="@+id/toolBar"
+    android:background="@color/dark_blue"
+    android:layout_above="@+id/news_title_1"/>
+    <TextView
+        android:background="@color/dark_blue"
+        android:id="@+id/news_title_1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="16dp"
+        android:text="@string/d_news"
+        android:textStyle="bold"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/toolBar"
+        android:textSize="24sp"
+        android:textColor="@color/pink"/>
+    <Button
+        android:id="@+id/button7"
+        android:layout_width="100dp"
+        android:layout_height="50dp"
+        android:layout_marginRight="16dp"
+        android:onClick="openBlogs"
+        android:layout_below="@+id/news_title_1"
+        android:layout_alignParentRight="true"
+        android:background="@drawable/border_with_no_reduis"
+        android:src="@drawable/blogs_custom_gredeint"
+        android:text="@string/d_blogs"
+        android:textColor="@color/yellow"
+        />
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:layout_marginTop="60dp"
+        android:textDirection="rtl"
+        android:layoutDirection="rtl"
+        android:padding="8dp"
+        android:id="@+id/rvAnimals"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/news_title_1"
+      />
+
+
+
+</RelativeLayout>

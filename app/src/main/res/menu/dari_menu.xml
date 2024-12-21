@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+
+    >
+
+    <item android:id="@+id/home"
+
+        android:icon="@drawable/news"
+        android:title="@string/d_news"
+        />
+    <item android:id="@+id/idea"
+        android:icon="@drawable/idea"
+        android:title="@string/d_ideas"
+        />
+
+    <item android:id="@+id/survey"
+        android:icon="@drawable/survey"
+        android:title="@string/d_survey"
+        />
+    <item android:id="@+id/entertainment"
+        android:icon="@drawable/entertainment"
+        android:title="@string/d_entertainment"
+        />
+    <item android:id="@+id/about"
+        android:icon="@drawable/about"
+        android:title="@string/d_about"
+        />
+
+    <item android:title=""
+        >
+        <menu>
+            <item android:id="@+id/logout"
+                android:icon="@drawable/logout"
+                android:title="@string/d_logout"
+                />
+        </menu>
+
+    </item>
+</menu>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <androidx.cardview.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:cardBackgroundColor="@color/dark_blue"
+        app:cardElevation="16dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginBottom="10dp"
+        android:soundEffectsEnabled="true"
+        app:cardCornerRadius="12dp"
+        android:id="@+id/poetryCardView">
+
+        <LinearLayout
+            android:background="@drawable/edit_text_border"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+            <TextView
+                android:layout_width="match_parent"
+                android:text="Najibullah Anwari"
+                android:textStyle="bold"
+                android:textColor="@color/text_color"
+                android:textSize="18sp"
+                android:padding="8dp"
+                android:layout_height="wrap_content"
+                android:id="@+id/userName"/>
+
+            <TextView
+                android:layout_marginLeft="16dp"
+                android:layout_width="match_parent"
+                android:text="5/Jul/2021"
+                android:textStyle="bold"
+                android:textColor="@color/text_color"
+                android:textSize="10sp"
+                android:layout_height="wrap_content"
+                android:id="@+id/date"/>
+
+
+                <TextView
+                        android:textStyle="normal"
+                        android:textColor="@color/text_color"
+                        android:textSize="16sp"
+                        android:padding="8dp"
+                        android:justificationMode="inter_word"
+                        android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+                        android:layout_width="wrap_content"
+                        android:layout_height="320dp"
+                        android:id="@+id/poem"/>
+
+
+        </LinearLayout>
+
+</androidx.cardview.widget.CardView>

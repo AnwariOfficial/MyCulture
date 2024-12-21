@@ -1,0 +1,38 @@
+[versions]
+agp = "8.6.0"
+imagepicker = "2.1"
+circleimageview = "3.1.0"
+junit = "4.13.2"
+junitVersion = "1.2.1"
+espressoCore = "3.6.1"
+appcompat = "1.6.1"
+justifiedtextview = "1.0.0"
+likebutton = "0.2.3"
+material = "1.10.0"
+activity = "1.9.3"
+constraintlayout = "2.1.4"
+recordview = "3.0.2"
+picasso = "2.71828"
+recordViewVersion = "2.0.1"
+volley = "1.2.1"
+
+[libraries]
+circleimageview = { module = "de.hdodenhof:circleimageview", version.ref = "circleimageview" }
+imagepicker = { module = "com.github.dhaval2404:imagepicker", version.ref = "imagepicker" }
+junit = { group = "junit", name = "junit", version.ref = "junit" }
+ext-junit = { group = "androidx.test.ext", name = "junit", version.ref = "junitVersion" }
+espresso-core = { group = "androidx.test.espresso", name = "espresso-core", version.ref = "espressoCore" }
+appcompat = { group = "androidx.appcompat", name = "appcompat", version.ref = "appcompat" }
+justifiedtextview = { module = "com.github.pouriaHemmati:JustifiedTextView", version.ref = "justifiedtextview" }
+likebutton = { module = "com.github.jd-alexander:LikeButton", version.ref = "likebutton" }
+material = { group = "com.google.android.material", name = "material", version.ref = "material" }
+activity = { group = "androidx.activity", name = "activity", version.ref = "activity" }
+constraintlayout = { group = "androidx.constraintlayout", name = "constraintlayout", version.ref = "constraintlayout" }
+record-view = { module = "com.devlomi.record-view:record-view", version.ref = "recordViewVersion" }
+volley = { module = "com.android.volley:volley", version.ref = "volley" }
+picasso = { module = "com.squareup.picasso:picasso", version.ref = "picasso" }
+recordview = { module = "com.github.3llomi:RecordView", version.ref = "recordview" }
+
+[plugins]
+android-application = { id = "com.android.application", version.ref = "agp" }
+
